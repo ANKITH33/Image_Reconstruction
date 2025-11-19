@@ -1,0 +1,9 @@
+opt.md
+uv.lock
+.venv
+__pycache__/
+__pypackages__/
+*.pyc
+*.pyo
+*.png
+*.jpg

@@ -1,0 +1,13 @@
+[project]
+name = "image-reconstruction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cvxpy>=1.7.3",
+    "kagglehub>=0.3.13",
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "scikit-image>=0.25.2",
+]
